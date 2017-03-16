@@ -2,7 +2,7 @@
   "name": "jquery-mobile-kuvut",
   "homepage": "https://github.com/adria1994/jquery-mobil-kuvut",
   "description": "css y js necesarios para el proyecto",
-  "main": ['jquery.mobile-1.4.5.js','jquery.mobile-1.4.5.css'],
+  "main": ["jquery.mobile-1.4.5.js","jquery.mobile-1.4.5.css"],
   "keywords": [
     "keywords"
   ],
